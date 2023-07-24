@@ -1,0 +1,425 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.col_1 {
+    width: 8.33%;
+    padding: 0 15px;
+    flex: 0 0 auto;
+}
+
+.col_2 {
+    width: 16.66%;
+    padding: 0 15px;
+    flex: 0 0 auto;
+}
+
+.col_3 {
+    width: 25%;
+    padding: 0 15px;
+    flex: 0 0 auto;
+}
+
+.col_4 {
+    width: 33.33%;
+    padding: 0 15px;
+    flex: 0 0 auto;
+}
+
+.col_5 {
+    width: 41.66%;
+    padding: 0 15px;
+    flex: 0 0 auto;
+}
+
+.col_6 {
+    width: 50%;
+    padding: 0 15px;
+    flex: 0 0 auto;
+}
+
+.col_7 {
+    width: 58.33%;
+    padding: 0 15px;
+    flex: 0 0 auto;
+}
+
+.col_8 {
+    width: 66.66%;
+    padding: 0 15px;
+    flex: 0 0 auto;
+}
+
+.col_9 {
+    width: 75%;
+    padding: 0 15px;
+    flex: 0 0 auto;
+}
+
+.col_10 {
+    width: 83.33%;
+    padding: 0 15px;
+    flex: 0 0 auto;
+}
+
+.col_11 {
+    width: 91.66%;
+    padding: 0 15px;
+    flex: 0 0 auto;
+}
+
+.col_12 {
+    width: 100%;
+    padding: 0 15px;
+    flex: 0 0 auto;
+}
+
+.align_center {
+    align-items: center;
+}
+
+/* header starts */
+
+header {
+    background-color: black;
+    padding: 30px 0;
+}
+
+.logo {
+    background-color: red;
+    height: 50px;
+    width: auto;
+}
+
+.navbar {
+    background-color: red;
+    height: 50px;
+    width: auto;
+}
+
+.btn {
+    background-color: red;
+    height: 50px;
+    width: auto;
+}
+
+/* header ends */
+
+/* sec1 banner starts */
+
+.banner {
+    background-color: red;
+    padding: 80px 0;
+}
+
+.cont {
+    background-color: black;
+    height: 300px;
+    width: 850px;
+}
+
+/* sec1 banner ends */
+
+/* sec2 starts */
+.sec2 {
+    background-color: black;
+    padding: 80px 0;
+}
+
+.box1 {
+    background-color: red;
+    height: 300px;
+    width: auto;
+}
+
+.box2 {
+    background-color: red;
+    height: 300px;
+    width: auto;
+
+}
+
+/* section2 ends */
+
+/* section 3 starts */
+
+.sec3 {
+    background-color: red;
+    padding: 80px 0;
+}
+
+.students {
+    background-color: black;
+    height: 70px;
+    width: auto;
+
+}
+
+.courses {
+    background-color: black;
+    height: 70px;
+    width: auto;
+}
+
+.events {
+    background-color: black;
+    height: 70px;
+    width: auto;
+
+}
+
+.trainers {
+    background-color: black;
+    height: 70px;
+    width: auto;
+}
+
+/* sec3 ends */
+
+/* sec4 starts */
+.sec4 {
+    background-color: black;
+    padding: 80px 0;
+}
+
+.learn {
+    background-color: red;
+    height: 400px;
+    width: auto;
+}
+
+.b1 {
+    background-color: red;
+    height: 300px;
+    width: auto;
+}
+
+.b2 {
+    background-color: red;
+    height: 300px;
+    width: auto;
+}
+
+.b3 {
+    background-color: red;
+    height: 300px;
+    width: auto;
+}
+
+/* section4 ends */
+/* sec5 starts */
+
+.sec5 {
+    background-color: red;
+    padding: 70px 0;
+}
+
+.one {
+    background-color: black;
+    height: 50px;
+    width: auto;
+}
+
+.two {
+    background-color: black;
+    height: 50px;
+    width: auto;
+}
+
+.three {
+    background-color: black;
+    height: 50px;
+    width: auto;
+}
+
+.four {
+    background-color: black;
+    height: 50px;
+    width: auto;
+}
+
+.five {
+    background-color: black;
+    height: 50px;
+    width: auto;
+    margin-top: 40px;
+}
+
+.six {
+    background-color: black;
+    height: 50px;
+    width: auto;
+    margin-top: 40px;
+}
+
+.seven {
+    background-color: black;
+    height: 50px;
+    width: auto;
+    margin-top: 40px;
+}
+
+.eight {
+    background-color: black;
+    height: 50px;
+    width: auto;
+    margin-top: 40px;
+}
+
+.nine {
+    background-color: black;
+    height: 50px;
+    width: auto;
+    margin-top: 40px;
+}
+
+.ten {
+    background-color: black;
+    height: 50px;
+    width: auto;
+    margin-top: 40px;
+}
+
+.eleven {
+    background-color: black;
+    height: 50px;
+    width: auto;
+    margin-top: 40px;
+}
+
+.twelve {
+    background-color: black;
+    height: 50px;
+    width: auto;
+    margin-top: 40px;
+}
+
+/* sec5 ends */
+
+/* sec6 starts */
+
+
+.sec6 {
+    background-color: black;
+    padding: 40px 0;
+}
+
+.popular {
+    background-color: red;
+    height: 50px;
+    width: auto;
+}
+
+.sec6_1 {
+    background-color: black;
+    padding: 80px 0;
+}
+
+.web {
+    background-color: red;
+    height: 500px;
+    width: auto;
+}
+
+.marketing {
+    background-color: red;
+    height: 500px;
+    width: auto;
+}
+
+.copywriting {
+    background-color: red;
+    height: 500px;
+    width: auto;
+}
+
+/* sec6_1 ends */
+/* sec 7 starts */
+.sec7 {
+    background-color: red;
+    padding: 80px 0;
+}
+
+.img1 {
+    background-color: black;
+    height: 500px;
+    width: auto;
+}
+
+.img2 {
+    background-color: black;
+    height: 500px;
+    width: auto;
+}
+
+.img3 {
+    background-color: black;
+    height: 500px;
+    width: auto;
+}
+
+/* sec7 ends */
+
+/* sec8 starts */
+
+.sec8 {
+    background-color: black;
+    padding: 80px 0;
+}
+
+.men {
+    background-color: red;
+    height: 250px;
+    width: auto;
+}
+
+.useful {
+    background-color: red;
+    height: 250px;
+    width: auto;
+}
+
+.service {
+    background-color: red;
+    height: 250px;
+    width: auto;
+}
+
+.newsletter {
+    background-color: red;
+    height: 250px;
+    width: auto;
+}
+
+/* sec8 ends */
+
+/* sec9 starts */
+
+.sec9 {
+    background-color: red;
+    padding: 20px 0;
+}
+
+.copywrite {
+    background-color: black;
+    height: 30px;
+    width: auto;
+}
+
+.sm {
+    background-color: black;
+    height: 30px;
+    width: auto;
+}
